@@ -44,14 +44,14 @@ By automatically detecting anomalies and suspicious patterns, this model plays a
 Predicting whether it is the cardholders or the fraudsters using the credit cards through credit card profiling. Using outlier detection methods to identify considerably different transactions (or 'outliers') from regular credit cards transactions to detect credit card fraud.
 
  ## Contributing
-
+<br/>
  <a href="https://github.com/mushir2004">
 </a>
  <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER">
 </a>
 <a href ="https://github.com/Whis2903">
 </a>
- 
+ <br/>
  ## Contact
 
  Name: [Md Mushir Alam] 
