@@ -45,11 +45,11 @@ Predicting whether it is the cardholders or the fraudsters using the credit card
 
  ## Contributing
 
-1. <a href="https://github.com/mushir2004">
+ <a href="https://github.com/mushir2004">
 </a>
-2. <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER">
+ <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER">
 </a>
-3.<a href ="https://github.com/Whis2903">
+<a href ="https://github.com/Whis2903">
 </a>
  
  ## Contact
